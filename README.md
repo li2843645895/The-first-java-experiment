@@ -71,7 +71,7 @@ void show(){
 		}else if(computerType == 3) {  
 			System.out.println("Welcome to MacOs");  
 		}  
-    创建一个创造方法logo（），让用户输入电脑型号，如果按1，则电脑型号为联想，用的是Window10系统，如果输入 2，用的是小米电脑，  
+    创建一个创造方法logo（），让用户输入电脑型号，如果按1，则电脑型号为联想，用的是Window10系统，如果输入 2，用的是华为电脑，  
     使用的是window8系统，如果输出3，则使用的是苹果电脑，用的是MacOs系统  
    ### 在主类Test中：
     logo logo1 = new logo();  
