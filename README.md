@@ -100,7 +100,16 @@ void show(){
 		HardDisk disk = new HardDisk(reader1.nextDouble());  				
     此模块中，用户输入电脑开始运行的时间和输入目前时间调用CPU的构造方法，输出CPU的工作时间。调用HardDisk的构造方法，输出电脑剩余的内存。  
 ## 四·实验结果
-
+运行程序时：  
+https://github.com/li2843645895/java-lishengxiang/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201008142001.png?raw=true  
+输入2，选择华为笔记本电脑：  
+https://github.com/li2843645895/java-lishengxiang/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201008142012.png?raw=true  
+输入开始工作时间6:  
+https://github.com/li2843645895/java-lishengxiang/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201008142031.png?raw=true  
+输入现在时间15：  
+https://github.com/li2843645895/java-lishengxiang/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201008142037.png?raw=true  
+输入电脑剩余的内存60：  
+https://github.com/li2843645895/java-lishengxiang/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201008142042.png?raw=true  
 ## 五·实验感想
 通过本次实验，我熟练掌握了类的创建，对象的创建，对象对属性和行为的调用和赋值。学会如何创建构造方法，并且调用它。  
 理解了修饰符public,protected,友好型，private各自作用，和对方法的创建和使用等。同时激发了我对Java语言深刻的兴趣，我一定积极努力学习和钻研这门语言。
