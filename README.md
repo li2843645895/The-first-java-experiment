@@ -29,10 +29,10 @@ java任务仓库
 		}  
 	}  
   通过计算，将计算机工作时间输入构造方法CPU（）中，将工作时间输入，如果工作时间超过5小时，则提醒用户休息一会。  
-  void setSpeed(int m){		//创建一个setSpeed函数，用来给成员变量speed赋值
-		this.speed = m;
+  void setSpeed(int m){		//创建一个setSpeed函数，用来给成员变量speed赋值  
+		this.speed = m;  
 }  
-创建一个方法，用来给公共型整型变量speed赋值，记录cpu的工作速度。
+创建一个方法，用来给公共型整型变量speed赋值，记录cpu的工作速度。  
 ### 在HardDisk类中：
 HardDisk(Double n){				//创建构造方法，用来输出电脑剩余的容量，并判断电脑是否需要清理  
 		spareamount=n;  
