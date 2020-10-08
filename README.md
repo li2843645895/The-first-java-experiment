@@ -106,7 +106,7 @@ https://github.com/li2843645895/java-lishengxiang/blob/main/%E5%BE%AE%E4%BF%A1%E
 https://github.com/li2843645895/java-lishengxiang/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201008142012.png?raw=true  
 输入开始工作时间6:  
 https://github.com/li2843645895/java-lishengxiang/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201008142031.png?raw=true  
-输入现在时间15：  
+输入现在时间12：  
 https://github.com/li2843645895/java-lishengxiang/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201008142037.png?raw=true  
 输入电脑剩余的内存60：  
 https://github.com/li2843645895/java-lishengxiang/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201008142042.png?raw=true  
